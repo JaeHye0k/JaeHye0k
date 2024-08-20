@@ -1,12 +1,14 @@
-<!-- 방문자 수 -->
-<div align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeHye0k&count_bg=%23E16F28&title_bg=%23FDAD01&icon=angellist.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false"/></a>
-</div>
-<br>
-
 <!-- 타이틀 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JaeHye0k&fontSize=70&animation=fadeIn" />
+</div>
+
+<!-- 뱃지 -->
+<div align="center">
+  <!-- 방문자수 -->
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeHye0k&count_bg=%23E16F28&title_bg=%23FDAD01&icon=angellist.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false"/></a>
+  <!-- solved.ac 티어 -->
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ahhpc2012"/>
 </div>
 
 <!-- 기술 스택 -->
@@ -26,4 +28,10 @@
 <div align="center">
   <h2>⚙️ Git Stat ⚙️</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=JaeHye0k&count_private=true&show_icons=true&theme=radical&repo=github-readme-stats"/>
+</div>
+
+ <!-- solved.ac 티어 -->
+<div align="center">
+  <h2>🐋 Baekjoon 🐋</h2>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ahhpc2012"/>
 </div>
